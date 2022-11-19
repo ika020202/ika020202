@@ -9,6 +9,8 @@
 
 - 💬 Ask me about **Flutter**
 
+<p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ika020202&show_icons=true&locale=en&layout=compact"/></p>
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
