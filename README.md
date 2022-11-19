@@ -1,7 +1,5 @@
 # 👋 Hi there
 
-<p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ika020202&layout=compact"/></p>
-
 - 🌱 I’m currently learning **Education and MobileApp**
 - 👨‍💻 All of my projects are available at [https://madadesu](https://madadesu)
 - 📝 I regularly write articles on [https://zenn.dev/urasan](https://zenn.dev/urasan)
