@@ -1,7 +1,7 @@
 # 👋 Hi there
 
 - 🌱 I’m currently learning **Education and MobileApp**
-- 👨‍💻 All of my projects are available at [https://ika020202.github.io](https://ika020202.github.io)
+- 👨‍💻 All of my projects are available at [https://ika020202.netlify.app/](https://ika020202.netlify.app/)
 - 📝 I regularly write articles on [https://zenn.dev/urasan](https://zenn.dev/urasan)
 - 💬 Ask me about **Flutter**
 
