@@ -11,9 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [初学者のためのFlutter学習コース2022](https://zenn.dev/urasan/articles/1e5fe9da8fc263)
 - [【Flutter】Dartの非同期処理を本気で学ぶ](https://zenn.dev/urasan/articles/f6613470658de1)
 - [【Flutter】Isarの公式ドキュメントを日本語訳しました。](https://zenn.dev/urasan/articles/16cb45968b8e13)
 - [【Flutter】Material Design3のNavigationBarを本気で学ぶ](https://zenn.dev/urasan/articles/e9b18c47d1747d)
-- [【Flutter】BottomNavigationBarを本気で学ぶ](https://zenn.dev/urasan/articles/5bb85a54fb23fb)
 <!-- BLOG-POST-LIST:END -->
 
